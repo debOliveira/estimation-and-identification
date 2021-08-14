@@ -3,7 +3,7 @@
 
 This repository contains **different controllers based on various plants**. All experiments were made in MATLAB and are numbered as:
 
-1. [Least squares](https://github.com/debOliveira/estimation-and-identification)
+1. [Least squares](https://github.com/debOliveira/estimation-and-identification/tree/main/Exp%201%20-%20Least%20Squares)
 
 Each experiment folder contains a script folder and the report PDF, HTML and MATLAB LiveScript (`.mlx`) file. 
 
