@@ -4,6 +4,7 @@
 This repository contains **different controllers based on various plants**. All experiments were made in MATLAB and are numbered as:
 
 1. [Least squares](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%201%20-%20Least%20Squares)
+2. [Stochastic process realizations and covariance functions](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%202%20-%20Stochastic%20process%20realizations%20and%20covariance%20functions)
 
 Each experiment folder contains a script folder and the report PDF, HTML and MATLAB LiveScript (`.mlx`) file. 
 
