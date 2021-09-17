@@ -8,6 +8,7 @@ This repository contains **different controllers based on various plants**. All 
 3. [Covariance from noisy signal](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%203%20-%20Covariance%20from%20noisy%20signal)
 4. [Predictor equation](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%204%20-%20Predictor%20equation)
 5. [Non parametric system's identification](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%206%20-%20Non%20parametric%20system's%20identification)
+6. [Exp 7 - Parametric Estimation Methods](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%207%20-%20Parametric%20Estimation%20Methods)
 
 Each experiment folder contains a script folder and the report PDF, HTML and MATLAB LiveScript (`.mlx`) file. 
 
