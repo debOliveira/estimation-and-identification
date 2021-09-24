@@ -9,6 +9,7 @@ This repository contains **different controllers based on various plants**. All 
 4. [Predictor equation](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%204%20-%20Predictor%20equation)
 5. [Non parametric system's identification](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%206%20-%20Non%20parametric%20system's%20identification)
 6. [Parametric Estimation Methods](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%207%20-%20Parametric%20Estimation%20Methods)
+7. [Numeric Approximation](https://github.com/debOliveira/Estimation-and-Identification-Systems/tree/main/Exp%208%20-%20Numeric%20Approximation)
 
 Each experiment folder contains a script folder and the report PDF, HTML and MATLAB LiveScript (`.mlx`) file. 
 
