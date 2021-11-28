@@ -1,0 +1,6 @@
+data = iddata(ymed,u,1);
+sys = pem(data,model);
+fprintf("Real values \n > [b1 b2 f1] = [%.2f %.2f %.2f]\n",...
+    b1, b2, f1);
+fprintf("PEM estimated \n > [b1 b2 f1] = [%.2f %.2f %.2f]\n",...
+        sys.B(2),sys.B(3),sys.F(2))
