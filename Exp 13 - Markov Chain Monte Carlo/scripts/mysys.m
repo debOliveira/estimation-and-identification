@@ -24,9 +24,9 @@ subplot(2,1,1), stem(k,u, 'filled'), title('Input');
 grid; ylim([-1.2,1.2]); xlim([0,50]); 
 xlabel('$k$','Interpreter','Latex');
 ylabel('$u(k)$', 'Interpreter','Latex');
-subplot(2,1,2), stem(k,u, 'filled'), title('Output'); 
-hold on; xlim([0,50]); ylim([-1.5,1.5]); grid on;
-plot(k,y, ':', 'Linewidth', 2), hold off;
+subplot(2,1,2), stem(k,y, 'filled'), title('Output'); 
+hold on; xlim([0,50]); grid on;
+plot(k,ymed, ':', 'Linewidth', 2), hold off;
 xlabel('$k$','Interpreter','Latex'),
 ylabel('$y(k),y(k)+e(k)$','Interpreter','Latex');
 legend('$y(k)$','$y(k)+e(k)$','Interpreter','Latex','Location', "best");
