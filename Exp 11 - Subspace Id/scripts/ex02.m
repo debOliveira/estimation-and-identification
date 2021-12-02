@@ -58,6 +58,8 @@
 %   
     y_est = dlsim(A,B,C,D,u);
     
+    mse = mean((y_est-y).^2)
+    
     if verbose
         figure()
         subplot(211);
